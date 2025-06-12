@@ -1,0 +1,117 @@
+fname,lname,sex,citizen,occupation,disabled,peakid,pkname
+Erik,Weihenmayer,M,USA,Public speaker on mountaineering,TRUE,EVER,Everest
+Gary John,Guller,M,USA/UK,President of Arun Treks & Expeditions,TRUE,EVER,Everest
+Edward L. (Ed),Hommer,M,USA,Airline pilot,TRUE,EVER,Everest
+David Yew Lee,Lim,M,Singapore,Professional speaker & media consultant,TRUE,CHOY,Cho Oyu
+Gary John,Guller,M,USA/UK,Travel agency director,TRUE,EVER,Everest
+Paul,Hockey,M,Australia,Translator of Japanese,TRUE,EVER,Everest
+Nawang,Sherpa,M,Nepal,Alpinist,TRUE,EVER,Everest
+Mark,Inglis,M,New Zealand,Author and company director,TRUE,CHOY,Cho Oyu
+Gary John,Guller,M,USA/UK,Trekking company operator,TRUE,CHOY,Cho Oyu
+Yoshiki,Takeshita,M,Japan,Attorney,TRUE,CHOY,Cho Oyu
+Paul,Hockey,M,Australia,Translator of Japanese,TRUE,EVER,Everest
+Cato Zahl,Pedersen,M,Norway,Personnel consultant,TRUE,CHOY,Cho Oyu
+Szabolcs,Szendro,M,Hungary,Photographer,TRUE,DHA1,Dhaulagiri I
+Jose Andres (Pepe),Blanco Sanchez,M,Spain,Athlete,TRUE,EVER,Everest
+Thomas,Weber,M,Germany,Attorney,TRUE,EVER,Everest
+Mark,Inglis,M,New Zealand,Author and lecturer,TRUE,EVER,Everest
+Cato Zahl,Pedersen,M,Norway,"Sports consultant, trainer & selector of coaches",TRUE,EVER,Everest
+Hong-Bin,Kim,M,S Korea,Marketing director,TRUE,EVER,Everest
+Satoshi,Tamura,M,Japan,Office worker,TRUE,CHOY,Cho Oyu
+William,Elrick,M,Australia,Massage therapist,TRUE,CHOY,Cho Oyu
+Hong-Bin,Kim,M,S Korea,Alpinist,TRUE,DHA1,Dhaulagiri I
+Hong-Bin,Kim,M,S Korea,Manager of climbing company,TRUE,MAKA,Makalu
+Santiago,Quintero Sylva,M,Ecuador,Alpine guide,TRUE,MAKA,Makalu
+Hong-Bin,Kim,M,S Korea,Alpinist,TRUE,DHA1,Dhaulagiri I
+Wilmar,Marulanda,M,Colombia,Student,TRUE,EVER,Everest
+Stuart Alan,Carder,M,UK,Plumber,TRUE,EVER,Everest
+James,Bonney,M,UK,Marine major,TRUE,AMAD,Ama Dablam
+Hong-Bin,Kim,M,S Korea,Alpinist,TRUE,ANN1,Annapurna I
+Santiago,Quintero Sylva,M,Ecuador,Professional alpine guide,TRUE,ANN1,Annapurna I
+Santiago,Quintero Sylva,M,Ecuador,Alpine guide,TRUE,CHOY,Cho Oyu
+Hong-Bin,Kim,M,S Korea,Alpinist,TRUE,MANA,Manaslu
+Jack Merel,Gerstein,M,USA,Ski equipment retailer,TRUE,AMAD,Ama Dablam
+Nicole Catherine Isabelle,Niquille Vaudens,F,Switzerland,Former alpine guide (now confined to wheelchair),TRUE,PUTH,Putha Hiunchuli
+Santiago,Quintero Sylva,M,Ecuador,Alpine guide,TRUE,CHOY,Cho Oyu
+Nelson,Cardona Carvajal,M,Colombia,Alpinist,TRUE,EVER,Everest
+Thomas,Meier,M,Germany,Carpenter,TRUE,CHOY,Cho Oyu
+Hong-Bin,Kim,M,S Korea,Alpinist,TRUE,CHOY,Cho Oyu
+Santiago,Quintero Sylva,M,Ecuador,Alpine guide & professional climber,TRUE,MANA,Manaslu
+Hong-Bin,Kim,M,S Korea,Alpinist,TRUE,KANG,Kangchenjunga
+Arunima,Sinha,F,India,Unemployed,TRUE,EVER,Everest
+Sudarshan,Gautam  ,M,Nepal/Canada,Director of Khangri Media,TRUE,EVER,Everest
+Santiago,Quintero Sylva,M,Ecuador,Alpine guide & professional alpinist,TRUE,EVER,Everest
+Andreas,Holzer,M,Austria,Alpinist & lecturer,TRUE,EVER,Everest
+Bo-Yu,Xia,M,China,,TRUE,EVER,Everest
+Hong-Bin,Kim,M,S Korea,Alpinist,TRUE,MANA,Manaslu
+Satoshi,Tamura,M,Japan,,TRUE,EVER,Everest
+Satoshi,Tamura,M,Japan,Office worker,TRUE,EVER,Everest
+Andreas,Holzer,M,Austria,Alpinist,TRUE,EVER,Everest
+Bo-Yu,Xia,M,China,,TRUE,EVER,Everest
+Kyoung-Tae,Song,M,S Korea,Social welfare,TRUE,EVER,Everest
+Hong-Bin,Kim,M,S Korea,Alpinist,TRUE,LHOT,Lhotse
+Nobukazu,Kuriki,M,Japan,Alpinist,TRUE,EVER,Everest
+Nobukazu,Kuriki,M,Japan,Alpinist,TRUE,ANN1,Annapurna I
+David Yew Lee,Lim,M,Singapore,Professional speaker & media consultant,TRUE,NPHU,Narphu
+Santiago,Quintero Sylva,M,Ecuador,Alpine guide,TRUE,MANA,Manaslu
+Bo-Yu,Xia,M,China,,TRUE,EVER,Everest
+Chad,Jukes,M,USA,Pizza chef (war veteran),TRUE,EVER,Everest
+Jeffrey James,Glasbrenner,M,USA,Self-employed,TRUE,EVER,Everest
+Satoshi,Tamura,M,Japan,Office worker,TRUE,EVER,Everest
+Ashok,Munne,M,India,Marketing director (PRO International),TRUE,EVER,Everest
+Honza (Jan),Riha,M,Czech Republic,Postal worker,TRUE,CHOY,Cho Oyu
+Nobukazu,Kuriki,M,Japan,Alpinist,TRUE,EVER,Everest
+Santiago,Quintero Sylva,M,Ecuador,Alpine guide,TRUE,DHA1,Dhaulagiri I
+Chitra Bahadur (Amit),Khatri Chhetri,M,Nepal,,TRUE,EVER,Everest
+Stefan Frans Jozef,Wolput,M,Belgium,Military officer in air force,TRUE,LHOT,Lhotse
+Hong-Bin,Kim,M,S Korea,Alpinist,TRUE,LHOT,Lhotse
+Nobukazu,Kuriki,M,Japan,Alpinist,TRUE,EVER,Everest
+Nobukazu,Kuriki,M,Japan,Alpinist,TRUE,EVER,Everest
+Andreas,Holzer,M,Austria,Alpinist,TRUE,EVER,Everest
+Hong-Bin,Kim,M,S Korea,Alpinist,TRUE,ANN1,Annapurna I
+Bo-Yu,Xia,M,China,Retired,TRUE,EVER,Everest
+Mehrdad,Shahlaei,M,Iran,Manager,TRUE,EVER,Everest
+Nobukazu,Kuriki,M,Japan,Alpinist,TRUE,EVER,Everest
+Terence James,Byrne,M,UK,Management,TRUE,EVER,Everest
+Martin Joseph,Hewitt,M,UK,Business owner,TRUE,EVER,Everest
+Kirstie Marie,Ennis,M,USA,Self-employed,TRUE,EVER,Everest
+Terence James,Byrne,M,UK,Management,TRUE,PUMO,Pumori
+Martin Joseph,Hewitt,M,UK,Business owner,TRUE,PUMO,Pumori
+Erik,Weihenmayer,M,USA,Public speaker on mountaineering,TRUE,AMAD,Ama Dablam
+Gianfranco,Corradini,M,Italy,Retired Accountant,TRUE,MANA,Manaslu
+Andrea,Lanfri,M,Italy,Athlete,TRUE,PUTH,Putha Hiunchuli
+Hong,Zhang,M,China,,TRUE,EVER,Everest
+Andrea,Lanfri,M,Italy,Para-athlete,TRUE,EVER,Everest
+Sagar,Sunar Bishowkarma,M,Nepal,,TRUE,EVER,Everest
+Amit,KC,M,Nepal,,TRUE,EVER,Everest
+Muhammad Hawari,Hashim,M,Malaysia,,TRUE,EVER,Everest
+Edward Thomas Bentley,Jackson,M,Ireland,Former rugby player,TRUE,HIML,Himlung Himal
+Simone,Salvagnin,M,Italy,,TRUE,GANC,Ganchenpo
+Hari Bahadur,Budha Magar,M,Nepal,,TRUE,HIML,Himlung Himal
+Kirstie Marie,Ennis,M,USA,Fire-fighter,TRUE,EVER,Everest
+Rafael Jaime,Jaramillo,M,Mexico,,TRUE,EVER,Everest
+Scott,Lehmann,M,USA,,TRUE,EVER,Everest
+Shayna Rose,Unger,F,USA,,TRUE,EVER,Everest
+Muhammad Hawari,Hashim,M,Malaysia,,TRUE,EVER,Everest
+Lonnie Ray,Bedwell,M,USA,Adventurer,TRUE,EVER,Everest
+Hari Bahadur,Budha Magar,M,Nepal,,TRUE,EVER,Everest
+Scott,Lehmann,M,USA,,TRUE,LHOT,Lhotse
+Lonnie Ray,Bedwell,M,USA,Adventurer,TRUE,LHOT,Lhotse
+Francesc Xavier (Xavi),Arias Sunyer,M,Spain,Director and guide in mountaineering agency,TRUE,AMAD,Ama Dablam
+Shayna Rose,Unger,F,USA,,TRUE,LHOT,Lhotse
+Scott,Lehmann,M,USA,,TRUE,MAKA,Makalu
+Shayna Rose,Unger,F,USA,,TRUE,MAKA,Makalu
+Yves,LeBissonnais,M,France,Agronomist,TRUE,AMAD,Ama Dablam
+Jean Francois,Rouys,M,France,Gardener,TRUE,AMAD,Ama Dablam
+Fabrizio,Rodolfi,M,Italy,Economist,TRUE,AMAD,Ama Dablam
+Szabolcs,Szendro,M,Hungary,,TRUE,CHOY,Cho Oyu
+Thomas Granville (Tom),Whittaker,M,USA,"Teacher, university",TRUE,EVER,Everest
+Thomas Granville (Tom),Whittaker,M,USA,Outdoor pursuits instructor,TRUE,EVER,Everest
+Thomas Granville (Tom),Whittaker,M,USA,Instructor of outdoor pursuits,TRUE,EVER,Everest
+Gary John,Guller,M,UK,Oil supply director,TRUE,LHOT,Lhotse
+Guy,Gerard,M,France,Postal worker,TRUE,MAKA,Makalu
+Andrea,Faustinelli,M,Italy,Alpine guide,TRUE,PUMO,Pumori
+Lauro,Mendeni,M,Italy,Telephone operator,TRUE,PUMO,Pumori
+Erik,Weihenmayer,M,USA,Speaker & alpinist,TRUE,AMAD,Ama Dablam
+Hong-Bin,Kim,M,S Korea,Businessman,TRUE,MANA,Manaslu
+Hong-Bin,Kim,M,S Korea,Businessman,TRUE,EVER,Everest

@@ -1,0 +1,254 @@
+citizen,total_climbers,disabled_climbers,successful_climbs,solo_climbers,claimed_success,disputed_climbs
+Nepal,20873,6,14209,7,23,40
+USA,7448,20,2562,11,0,3
+Japan,6604,11,1996,11,3,14
+UK,5786,7,1764,4,2,2
+France,5089,3,1443,18,5,5
+Spain,3598,2,858,12,4,1
+Germany,3015,2,1022,6,0,0
+S Korea,3002,15,631,1,2,9
+Italy,2937,7,753,6,4,6
+China,2901,5,1853,1,4,1
+Switzerland,2656,1,903,8,3,3
+India,2465,2,1050,0,6,11
+Austria,2275,3,703,1,2,3
+Russia,1681,0,792,3,0,2
+Australia,1640,3,545,0,0,0
+Poland,1638,0,491,3,0,2
+Canada,1349,0,435,6,0,1
+New Zealand,853,2,322,2,0,1
+Netherlands,844,0,224,6,3,3
+W Germany,777,0,225,6,6,1
+Czech Republic,769,1,210,3,0,1
+Norway,678,2,300,1,0,1
+Slovenia,575,0,159,4,0,0
+Belgium,505,1,131,0,0,0
+Yugoslavia,493,0,92,3,0,2
+Ukraine,459,0,232,0,0,0
+Iran,454,1,217,0,9,0
+Sweden,425,0,141,1,0,0
+Czechoslovakia,355,0,49,0,1,0
+Mexico,350,1,143,1,1,1
+Ireland,296,1,114,0,0,0
+Argentina,283,0,72,0,2,0
+USSR,271,0,140,0,0,0
+Romania,267,0,91,2,0,2
+Denmark,259,0,93,1,0,0
+Slovakia,253,0,53,2,0,0
+Bulgaria,247,0,71,0,2,0
+Brazil,244,0,95,0,0,0
+Chile,227,0,78,0,0,0
+Finland,226,0,88,0,0,0
+S Africa,214,0,75,0,0,0
+Hungary,190,2,44,1,0,0
+Singapore,173,2,65,0,0,0
+Malaysia,170,2,51,0,0,0
+Greece,170,0,54,0,1,1
+Kazakhstan,162,0,86,0,0,0
+Ecuador,159,8,83,0,0,0
+Taiwan,137,0,53,0,0,0
+Georgia,120,0,46,0,0,2
+Croatia,117,0,31,0,0,0
+Israel,102,0,32,0,0,0
+Portugal,93,0,41,0,0,1
+Colombia,88,2,21,0,0,1
+Indonesia,86,0,20,0,1,0
+Serbia,81,0,30,0,0,0
+Pakistan,78,0,43,0,1,0
+Latvia,71,0,35,0,0,0
+Lithuania,70,0,24,0,0,0
+Iceland,70,0,39,0,0,0
+UAE,66,0,16,0,0,0
+Turkey,59,0,36,0,0,0
+Thailand,58,0,14,0,0,0
+Estonia,56,0,28,0,0,2
+Peru,55,0,27,0,0,0
+Venezuela,48,0,17,0,0,0
+Mongolia,45,0,26,0,0,0
+Andorra,45,0,14,0,0,0
+Belarus,44,0,19,0,0,3
+Philippines,42,0,9,0,0,1
+Bangladesh,41,0,21,0,0,2
+Kyrgyz Republic,40,0,24,0,0,0
+Uzbekistan,37,0,17,0,0,0
+Bahrain,30,0,20,0,0,0
+Macedonia,27,0,18,0,0,0
+Luxembourg,26,0,10,0,0,0
+USA/Canada,22,0,5,0,0,0
+Lebanon,21,0,13,0,0,0
+UK/Nepal,20,0,16,0,0,0
+Kosovo,19,0,14,0,0,0
+Qatar,18,0,13,0,0,0
+Malta,18,0,12,0,0,0
+Ireland/UK,18,0,11,0,0,0
+Australia/New Zealand,18,0,8,0,0,0
+Kenya,17,0,8,0,0,0
+Bosnia-Herzegovina,17,0,6,0,0,0
+Vietnam,16,0,8,0,0,0
+Morocco,16,0,9,0,0,0
+Hong Kong,16,0,4,0,0,0
+Kuwait,15,0,4,0,0,0
+Guatemala,15,0,5,0,0,0
+Costa Rica,14,0,3,0,0,0
+USA/Switzerland,13,0,1,0,0,0
+USA/Brazil,12,0,7,0,0,1
+Turkey/USA,12,0,2,0,1,0
+Nepal/Australia,12,0,2,0,0,0
+USA/Ukraine,11,0,9,0,0,0
+USA/UK,11,3,3,0,0,0
+Myanmar,11,0,5,0,0,0
+Montenegro,11,0,5,0,0,0
+Jordan,11,0,5,0,0,0
+Oman,10,0,5,0,0,0
+Azerbaijan/Russia,10,0,9,0,0,0
+Uruguay,9,0,5,0,0,0
+UK/Australia,9,0,5,0,0,0
+Cyprus,9,0,4,0,0,0
+Bolivia,9,0,4,0,2,0
+USA/Poland,8,0,3,0,0,0
+UK/Spain,8,0,3,0,0,0
+UK/Iran,8,0,2,0,0,0
+UK/Argentina,8,0,5,0,0,0
+Moldova,8,0,6,0,0,0
+Iraq,8,0,2,0,0,0
+Colombia/USA,8,0,4,0,0,0
+W Germany/Iran,7,0,0,1,2,0
+USA/Russia,7,0,4,0,0,0
+USA/Iran,7,0,3,0,0,0
+Sri Lanka,7,0,3,0,0,0
+Liechtenstein,7,0,4,0,0,0
+Algeria,7,0,3,0,0,0
+Albania,7,0,7,0,0,0
+,7,0,0,0,0,0
+USA/Romania,6,0,2,0,0,0
+UK/USA,6,0,0,0,0,0
+UK/Russia,6,0,3,0,0,0
+Switzerland/France,6,0,0,0,0,0
+Saudi Arabia,6,0,5,0,0,0
+Nepal/India,6,0,1,0,0,0
+Dominican Republic,6,0,2,0,0,0
+Denmark/Australia,6,0,1,0,0,0
+Canada/Russia,6,0,4,0,0,0
+Azerbaijan,6,0,3,0,0,0
+USA/Pakistan,5,0,3,0,0,0
+USA/Jamaica,5,0,1,0,0,0
+San Marino,5,0,1,0,0,0
+New Zealand/Australia,5,0,1,0,0,0
+Mauritius,5,0,1,0,0,0
+Bosnia-Herzegovina/USA,5,0,2,0,0,0
+Australia/Sweden,5,0,0,0,0,0
+USA/Ireland,4,0,1,0,0,0
+Spain/USA,4,0,1,0,0,0
+S Africa/Zambia,4,0,1,0,0,0
+Nepal/India?,4,0,0,0,0,0
+Italy/Slovenia,4,0,1,0,0,0
+India/Nepal,4,0,0,0,0,0
+France/Switzerland,4,0,2,0,0,0
+Egypt,4,0,3,0,0,0
+Ecuador/Germany,4,0,1,0,0,0
+USA/India,3,0,3,0,0,0
+USA/Germany,3,0,1,0,0,0
+USA/Ecuador,3,0,3,0,0,0
+USA/Colombia,3,0,0,0,0,0
+UK/Sri Lanka,3,0,2,0,0,0
+UK/S Africa,3,0,2,0,0,0
+UK/New Zealand,3,0,2,0,0,0
+UK/India,3,0,0,0,0,0
+Spain/Venezuela,3,0,1,0,0,0
+Spain/Brazil,3,0,1,0,0,0
+Slovakia/USA,3,0,1,0,0,0
+Russia/Ukraine,3,0,2,0,0,0
+Panama,3,0,2,0,0,0
+Palestine,3,0,2,0,0,0
+Norway/Denmark,3,0,2,0,0,0
+Nepal/USA,3,0,2,0,0,0
+India?,3,0,0,0,0,0
+France/USA,3,0,1,0,0,0
+El Salvador,3,0,2,0,0,0
+Cyprus/Russia,3,0,2,0,0,0
+Canada/USA,3,0,1,0,0,0
+Bhutan,3,0,2,0,0,1
+Armenia,3,0,2,0,0,0
+Afghanistan,3,0,1,0,0,0
+USA/Ethiopia,2,0,0,0,0,0
+USA/China,2,0,1,0,0,0
+UK/Lebanon,2,0,1,0,0,0
+UK/Jordan,2,0,0,0,0,0
+UK/Canada,2,0,0,0,0,0
+Tunisia,2,0,1,0,0,0
+Tanzania,2,0,2,0,0,0
+Switzerland/USA,2,0,1,0,0,0
+Switzerland/UK,2,0,0,0,0,0
+Singapore/Malaysia,2,0,0,0,0,0
+S Africa/Ukraine,2,0,1,0,0,0
+Russia/USA,2,0,1,0,0,0
+Lithuania/USA,2,0,2,0,0,0
+Kyrgyz Republic/Russia,2,0,2,0,0,0
+Italy/USA,2,0,0,1,0,0
+Honduras,2,0,2,0,0,0
+Germany/UK,2,0,1,0,0,0
+Germany/Iran,2,0,1,0,1,0
+Cuba,2,0,1,0,0,0
+China/USA,2,0,1,0,0,0
+Canada/Portugal,2,0,1,0,0,0
+Canada/Macedonia,2,0,2,0,0,0
+Canada/Ireland,2,0,1,0,0,0
+Australia/S Africa,2,0,0,0,0,0
+Australia/Ireland,2,0,0,0,0,0
+Argentina/Canada,2,0,2,0,0,0
+Ukraine/Azerbaijan,1,0,1,0,0,0
+USA/UKraine,1,0,1,0,0,0
+USA/New Zealand,1,0,1,0,0,0
+USA/Latvia,1,0,1,0,0,0
+USA/Lativa,1,0,0,0,0,0
+USA/Israel,1,0,0,0,0,0
+USA/Dominican Republic,1,0,1,0,0,0
+USA/Cuba,1,0,0,0,0,0
+USA/Austria,1,0,0,0,0,0
+UK/Switzerland,1,0,0,0,0,0
+UK/Kenya,1,0,1,0,0,0
+UK/Italy,1,0,0,0,0,0
+UK/Iceland,1,0,1,0,0,0
+UK/Hong Kong,1,0,0,0,0,0
+UK/Germany,1,0,1,0,0,0
+UK/Egypt,1,0,0,0,0,0
+UK/Bangladesh,1,0,0,0,0,0
+Turkmenistan,1,0,0,0,0,0
+Tajikistan,1,0,1,0,0,0
+Syria,1,0,1,0,0,0
+Switzerland/Greece,1,0,1,0,0,0
+Switzerland/Germany,1,0,0,0,0,0
+Serbia/Jordan,1,0,1,0,0,0
+Saudi Arabia/USA,1,0,1,0,0,0
+S Africa/UK,1,0,0,0,0,0
+S Africa/Portugal,1,0,1,0,0,0
+Romania/USA,1,0,0,0,0,0
+Poland/USA,1,0,0,0,0,0
+Poland/Canada,1,0,1,0,0,0
+Paraguay/Germany,1,0,1,0,0,0
+New Zealand/UK,1,0,1,0,0,0
+Netherlands/Switzerland,1,0,1,0,0,0
+Nepal/Canada,1,1,1,0,0,0
+N Korea,1,0,1,0,0,0
+Mongolia/Australia,1,0,1,0,0,0
+Malaysi,1,0,0,0,0,0
+Macedonia/Australia,1,0,0,0,0,0
+Libya,1,0,0,0,0,0
+Japan/China,1,0,1,0,0,0
+Hungary/Romania,1,0,1,0,0,0
+Germany/USA,1,0,1,0,0,0
+Germany/Switzerland,1,0,0,0,0,0
+Germany/S Africa,1,0,0,0,0,0
+France/Luxembourg,1,0,1,0,0,0
+France/Algeria,1,0,1,0,0,0
+Egypt/UK,1,0,1,0,0,0
+Dominica,1,0,1,0,0,0
+China/Japan,1,0,0,0,0,0
+Chile/Sweden,1,0,1,0,0,0
+Canada/UK,1,0,0,0,0,0
+Botswana,1,0,0,0,0,0
+Austria/Brazil,1,0,0,0,0,0
+Australia/USA,1,0,0,0,0,0
+Australia/UK,1,0,0,0,0,0
+Australia/Greece,1,0,0,0,0,0
+Afghanistan/USA,1,0,1,0,0,0
