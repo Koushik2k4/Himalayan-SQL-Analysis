@@ -78,3 +78,20 @@ Interpretation:
 Success rates by nationality offer more than just statistics — they reveal how cultural, economic, and geographical factors influence expedition outcomes.
 Countries with rich mountaineering heritages like Switzerland or Japan often combine skill, training, and selective ambition, resulting in higher success. On the other hand, nations with rising interest in mountaineering — including India and China — may see large numbers but with more variability in preparedness, especially on tough routes.
 It also speaks to institutional support: countries with structured climbing federations, subsidized training, and established expedition companies naturally see better performance in extreme conditions.
+
+### Deaths by Nationality
+
+This table aggregates expedition deaths based on the climbers' nationality. It offers a unique lens into how different countries fare in terms of risk outcomes and potentially how prepared or experienced their expeditions tend to be.
+
+Key observations:
+
+-A few countries dominate the death count, likely due to higher participation rates. For example, countries like the USA, Japan, UK, and South Korea frequently appear at the top.
+
+-However, when normalized by the number of climbers per country (not shown here but can be inferred), some nations show disproportionately higher death rates — suggesting potential gaps in training, equipment, or experience.
+
+-Countries with alpine traditions (e.g., Switzerland, France) tend to have fewer deaths despite relatively active participation, possibly reflecting better mountaineering infrastructure or institutional knowledge.
+
+-Developing nations show lower absolute numbers, but this is likely due to lower representation in high-risk expeditions.
+
+Interpretation:
+This insight can inform policymakers, mountaineering federations, and training institutions. By understanding which national groups face higher risks, targeted interventions (like mandatory prep programs or safety workshops) can be designed. Additionally, this table connects back to the broader narrative of “What happens after the climb?” — not all climbers return home, and this data humanizes that loss on a national scale.
