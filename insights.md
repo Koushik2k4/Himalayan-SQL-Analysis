@@ -1,4 +1,6 @@
 ### Why Climb?
+
+
 ## A Look into Disabled Climbers’ Commonalities:
 
 This table focuses on 116 climbers who undertook Himalayan expeditions despite physical disabilities. What emerges is not just a dataset but a deeply human portrait of resilience, motivation, and identity.
@@ -18,7 +20,7 @@ This table isn't just a count of climbs — it reflects the psychology of those 
 
 ### What Happens During the Climb?
 
-### Success Patterns by Gender:
+## Success Patterns by Gender:
 
 This table provides a gender-wise breakdown of Himalayan expedition outcomes, highlighting success rates, solo attempts, and even controversial claims. It's a compact yet revealing view into the gender dynamics of high-altitude climbing.
 
@@ -35,7 +37,7 @@ In short, this table is less about physical summits and more about social ones �
 
 
 
-### Success by Peak:
+## Success by Peak:
 
 This table displays the number of successful summits and total attempts for each Himalayan peak, allowing us to compute and compare the success rate across peaks. It serves as a lens into which peaks are frequently climbed, how often climbers succeed, and which mountains pose greater challenges.
 
@@ -59,7 +61,7 @@ Interpretation:
 
 
 
-### Success by Nationality:
+## Success by Nationality:
 
 This table presents a breakdown of summit attempts and successes categorized by nationality, enabling us to assess which countries have a higher success rate in Himalayan expeditions. It's a powerful lens into the experience, preparation, and climbing culture of different nations.
 
@@ -79,7 +81,25 @@ Success rates by nationality offer more than just statistics — they reveal how
 Countries with rich mountaineering heritages like Switzerland or Japan often combine skill, training, and selective ambition, resulting in higher success. On the other hand, nations with rising interest in mountaineering — including India and China — may see large numbers but with more variability in preparedness, especially on tough routes.
 It also speaks to institutional support: countries with structured climbing federations, subsidized training, and established expedition companies naturally see better performance in extreme conditions.
 
-### Deaths by Nationality
+## success by occupation:
+
+This analysis explores the relationship between a climber's occupation and their expedition success, revealing how professional background might influence high-altitude outcomes.
+
+key observations:
+
+-Doctors, engineers, military personnel, and full-time climbers tend to show higher success rates, possibly due to better physical conditioning, planning, or risk management skills.
+
+-Students and photographers had noticeably lower success rates, suggesting a potential gap in preparedness or experience.
+
+-Several less common professions — such as priests, writers, and artists — appeared rarely and had inconsistent outcomes.
+
+Interpretation-
+Occupational background seems to reflect not just physical ability, but also the mental preparedness and structure that climbers bring with them. Professions that demand high responsibility, endurance, or strategic planning tend to translate better into successful expeditions.
+
+
+### climbing aftermath
+
+## Deaths by Nationality
 
 This table aggregates expedition deaths based on the climbers' nationality. It offers a unique lens into how different countries fare in terms of risk outcomes and potentially how prepared or experienced their expeditions tend to be.
 
