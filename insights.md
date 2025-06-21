@@ -31,6 +31,7 @@ Key Observations:
 -Female Climbers (F) total 8,809, with a success count of 3,233 and only 7 solo climbs. Interestingly, 7 climbs were claimed successes, and 16 were disputed — a higher dispute ratio per claimed success compared to men. This may reflect bias or greater scrutiny female climbers face in proving summit claims.
 
 Interpretation:
+
 This dataset mirrors real-world inequalities: climbing remains a male-dominated pursuit, but female climbers still exhibit notable success rates. The higher rate of disputed claims among women is telling — either of the skepticism they face or the stringent standards applied to validate their achievements. Meanwhile, the low numbers of solo climbs among women may reflect access, risk culture, or historical barriers rather than capability.
 
 In short, this table is less about physical summits and more about social ones — who gets to climb, and who gets believed when they say they did.
@@ -94,6 +95,7 @@ key observations:
 -Several less common professions — such as priests, writers, and artists — appeared rarely and had inconsistent outcomes.
 
 Interpretation-
+
 Occupational background seems to reflect not just physical ability, but also the mental preparedness and structure that climbers bring with them. Professions that demand high responsibility, endurance, or strategic planning tend to translate better into successful expeditions.
 
 
@@ -114,4 +116,5 @@ Key observations:
 -Developing nations show lower absolute numbers, but this is likely due to lower representation in high-risk expeditions.
 
 Interpretation:
+
 This insight can inform policymakers, mountaineering federations, and training institutions. By understanding which national groups face higher risks, targeted interventions (like mandatory prep programs or safety workshops) can be designed. Additionally, this table connects back to the broader narrative of “What happens after the climb?” — not all climbers return home, and this data humanizes that loss on a national scale.
