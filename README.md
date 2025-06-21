@@ -7,7 +7,7 @@ A storytelling-driven SQL analysis project exploring the motivations, challenges
 ## Tools Used
 - SQL (SQLite)
 - DB Browser for SQLite
-- Python (Matplotlib & Seaborn for optional visualizations)
+- Python (Matplotlib & Seaborn for visualizations)
 - GitHub for publishing and version control
 
 
