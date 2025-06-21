@@ -1,26 +1,64 @@
-# Himalayan Expeditions - SQL Data Analysis Project
+# 🏔️ Himalayan Expeditions – SQL Data Analysis Project
 
-## OBJECTIVE-
-To uncover the motivations, decisions and outcomes behind the Himalayan expeditions using real-world data and SQL.
-Inspired by the manga "The Climber", this project focuses on these 3 core questions:
-- Why people climb?
-- What happens during the climb?
-- What follows afterwards?
+A storytelling-driven SQL analysis project exploring the motivations, challenges, and outcomes of Himalayan mountain climbers. Inspired by the human side of data, the project answers key questions about why people climb, what happens during expeditions, and what follows after.
 
-## TOOLS USED-
--SQLite
--Python(Matplotlib & Seaborn)
--Pandas, NumPy
--Git & Github
 
-## PROJECT STRUCTURE-
--'queries/'- All SQL queries used for analysis.
--'data/'- Key result tables derived from those queries exported as CSVs.
--'visuals/'- Graphs and charts supporting the insights.
--'insights'-A deep-dive explanation of the questions , logic and findings.
 
-## Highlights(to be added)-
+## Tools Used
+- SQL (SQLite)
+- DB Browser for SQLite
+- Python (Matplotlib & Seaborn for optional visualizations)
+- GitHub for publishing and version control
 
-## Full Write-up-
-See ['insights.md'](insights.md) for detailed reasoning, query logic and insights.
+
+
+## Project Objectives
+
+To analyze and uncover patterns from a multi-table Himalayan expedition dataset by answering:
+1. **Why do people climb?**
+2. **What happens during the climb?**
+3. **What happens after the climb?**
+
+This is achieved through:
+- 23 SQL queries across different focus areas
+- Deep dive into six key data slices
+- Insights written in clear business language
+
+---
+
+##  Repository Structure
+/queries → 23 SQL queries saved as individual .sql files
+/data → 6 selected query outputs exported as .csv
+/visuals → Charts for selected insights (to be added)
+insights.md → Narrative insights based on each selected query
+README.md → Project overview and structure
+
+
+---
+
+## Sample Insights
+
+- **Disabled climbers** shared common nationalities and climbed specific peaks, reflecting a strong theme of resilience.
+- **Climb outcomes varied by gender, occupation, and nationality**, revealing both disparities and unexpected patterns.
+- **Deaths by nationality** showed concentration among a few countries — raising questions about experience, route selection, and expedition support.
+- **Success rates** were higher for professions requiring discipline and training (military, engineers, doctors), and lower for first-timers and students.
+
+For full insights, see [`insights.md`](./insights.md).
+
+---
+
+##  What Makes This Project Unique
+
+- Focused on **human stories** through SQL — not just technical metrics  
+- Organized into clean, explainable folders  
+- Ready to be extended with Python-based visualizations
+
+
+
+##  Status
+
+Queries, insights, structure complete  
+Visuals pending (to be added gradually)
+
+
 
