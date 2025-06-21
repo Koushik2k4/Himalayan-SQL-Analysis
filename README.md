@@ -1,4 +1,4 @@
-# 🏔️ Himalayan Expeditions – SQL Data Analysis Project
+# Himalayan Expeditions – SQL Data Analysis Project
 
 A storytelling-driven SQL analysis project exploring the motivations, challenges, and outcomes of Himalayan mountain climbers. Inspired by the human side of data, the project answers key questions about why people climb, what happens during expeditions, and what follows after.
 
