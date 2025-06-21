@@ -20,7 +20,7 @@ To analyze and uncover patterns from a multi-table Himalayan expedition dataset 
 3. **What happens after the climb?**
 
 This is achieved through:
-- 23 SQL queries across different focus areas
+- 23 SQL queries across different focus areas. Every query gives a different output table that has a unique scope for analysis. Visit queries.md under [`/queries`](./queries).
 - Deep dive into six key data slices
 - Insights written in clear business language
 
